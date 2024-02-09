@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on Sure, "companies and teams."
 - 📫 How to reach me mohammadmehdi1382130@gmail.com
-- ⚡ Fun fact: The world's first computer was steam-powered!
+- ⚡ Fun fact: I think I am an interesting person.
 
 <!---
 Mm-iranshahi/Mm-iranshahi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
