@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on Sure, "companies and teams."
 - 📫 How to reach me mohammadmehdi1382130@gmail.com
-- 😄 Pronouns: Professor 😄
 - ⚡ Fun fact: The world's first computer was steam-powered!
 
 <!---
